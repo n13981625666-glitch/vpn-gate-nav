@@ -1,4 +1,4 @@
-# cf-nav
+# VPN-Gate-Nav
 
 极简现代的个人导航站，运行在 Cloudflare Workers + KV 上：密码保护、搜索与标签筛选、链接状态检测、可视化后台（自动 ID、拖拽排序、标签管理）。
 

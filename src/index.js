@@ -1040,7 +1040,7 @@ ${ADMIN_CSS}
         <div class="sug" id="titleSug"></div>
       </div>
       <div class="f"><label>类型 <span class="opt-label">（可选）</span></label>
-        <input class="input" id="fType" placeholder="如 Minichicken" autocomplete="off">
+        <input class="input" id="fType" placeholder="如 MegaBox Pro" autocomplete="off">
       </div>
       <div class="f full"><label>图标</label>
         <input class="input" id="fIcon" placeholder="🔗" maxlength="8" autocomplete="off" style="max-width:120px">
