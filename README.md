@@ -2,7 +2,7 @@
 
 极简现代的个人导航站，运行在 Cloudflare Workers + KV 上：密码保护、搜索与标签筛选、链接状态检测、可视化后台（自动 ID、拖拽排序、标签管理）。
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR_USER/YOUR_REPO)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/n13981625666-glitch/vpn-gate-nav)
 
 ## 一键部署
 
@@ -15,7 +15,7 @@
 ## 手动部署
 
 ```bash
-git clone https://github.com/YOUR_USER/YOUR_REPO && cd YOUR_REPO
+git clone https://github.com/n13981625666-glitch/vpn-gate-nav && cd vpn-gate-nav
 npm install
 npx wrangler kv namespace create LINKS_KV   # 把输出的 id 填进 wrangler.jsonc
 npx wrangler secret put PASSWORD
