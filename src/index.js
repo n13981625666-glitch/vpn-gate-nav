@@ -150,8 +150,8 @@ function normalizeList(list) {
 }
 
 const DEFAULT_LINKS = [
-    { id: 'bwh', title: '搬瓦工', highlight: 'Minichicken', icon: '🖥️', desc: '高速稳定 · 极低延迟', tags: ['Bandwagon'], url: 'https://example.com/' },
-    { id: 'vmiss', title: 'Vmiss', highlight: '9929', icon: '🌐', desc: '优质线路 · 畅快体验', tags: ['Vmiss'], url: 'https://example.org/' }
+    { id: 'bwh', title: '搬瓦工', highlight: 'Megebox Pro', icon: '🖥️', desc: '高速稳定 · 极低延迟', tags: ['Bandwagon'], url: 'https://example.com/' },
+    { id: 'dmit', title: 'Dmit', highlight: 'Corona', icon: '🌐', desc: '优质线路 · 畅快体验', tags: ['Dmit'], url: 'https://example.org/' }
 ];
 
 // ============================================================
