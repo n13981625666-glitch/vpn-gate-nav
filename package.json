@@ -1,5 +1,5 @@
 {
-  "name": "cf-nav",
+  "name": "vpn-gate-nav",
   "version": "2.0.0",
   "private": true,
   "description": "极简现代的个人导航站，运行在 Cloudflare Workers + KV 上",
